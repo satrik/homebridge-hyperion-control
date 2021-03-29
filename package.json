@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-hyperion-control",
+  "displayName": "HyperionControl",
+  "version": "0.1.0",
+  "description": "Homebridge plugin to control Hyperion ng",
+  "author": "Sascha Petrik",
+  "license": "MIT",
+  "main": "index.js",
+  "engines": {
+    "homebridge": ">=0.4.50",
+    "node": ">=12.0.0"
+  },
+  "dependencies": {
+    "node-fetch": ">=2.6.0"
+  },
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/satrik/homebridge-hyperion-control"
+  },
+  "bugs": {
+    "url": "https://github.com/satrik/homebridge-hyperion-control/issues"
+  }
+}
